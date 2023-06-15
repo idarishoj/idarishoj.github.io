@@ -1,8 +1,9 @@
-{
+
+[{
     "services": [
         {"title": "Er du dig på sociale medier?", "id": 1, "details": "Shitstorms, virale opslag og kattevideoer er noget af det, vi forbinder med sociale medier. Når vi fra privatlivets vægge aktiverer scroll-fingeren, er der dog meget mere på spil end vores egne interesser. Selvom en platform kan beskrives med ”Her er jeg bare mig selv”, og andre opleves at kræve mere omtanke med egen adfærd, er præmissen for de fleste platforme, at de tilpasses den måde, som vi bruger dem, med nogle helt særlige logikker for succes. Sociale medier er blevet en del af vores hverdag, og mens nogle er mere aktive end nogensinde, oplever andre at have valgt dem fra. Der findes dog mange nuancer i adfærd og brug af sociale medier, når dele af disse platforme er blevet til et primært kommunikationsredskab for mange. Dette foredrag sætter spørgsmål til hvad de sociale medier er, og sætter fokus på nogle af de dynamikker, de er indlejret i, og hvordan vi som brugere kan forstå dette, når ”vi bare er os selv”.", "price": "3.750 DKK"},
         {"title": "Lurende algoritmiske logikker", "id": 2, "details": "Tæller du også likes, reaktioner, kommentarer og delinger? Så er du ikke alene. Disse algoritmiske anerkendelsessymboler er for mange blevet en måde at måle hvor interessant eller succesfuldt et opslag er, men er langt fra den eneste logik, vi som mennesker og fagprofessionelle bør forholde os til.", "price": "3.750 DKK"},
         {"title": "LI Brugertyper", "id": 3, "details": "Hvad siger dine opslag om dig? I dette segment kommer du til at lære om forskellige brugertyper. Jeg kommer til at fortælle dig om debattøren, det personlige brand, narrativet, coachen, det sociale CV og gatekeeperen.", "price": "3.750 DKK"}
     ],
     "blogs": []
-}
+}]
